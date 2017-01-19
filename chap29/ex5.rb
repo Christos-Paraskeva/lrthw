@@ -1,0 +1,1 @@
+# 5) the variables will change and therefore the bootlean outcomes for the if statement will be different leading to different puts statements either being run or not being run

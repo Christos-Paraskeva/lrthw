@@ -1,0 +1,1 @@
+# 2) It's indented for good practice and is the Ruby way. Makes it cleaner and easier to avoid errors such as missing an 'end'

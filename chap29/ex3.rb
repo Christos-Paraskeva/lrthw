@@ -1,0 +1,1 @@
+# 3) Code will still run but it will look messy and more prone to errors
