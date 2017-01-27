@@ -1,0 +1,71 @@
+question room(1)
+will need to answer a set of questions to proceed
+will need 3 / 3 correct
+will die otherwise
+
+
+
+
+question room (2)
+will need 3/3
+sends to final room
+or back to starting room (puts you’ve been here before)
+if win says youve escaped and ends
+
+
+
+starting room
+will have a choice of straight ahead(5)
+left(3)
+right(4)
+
+
+
+
+room left (3)
+monsters
+hide or run
+
+
+hide - finds you - can fight or be try escape
+if fight 
+can use punch or kick
+if kick then then wins and can do left or right
+if right go to room (4)
+if left room (3)
+if punch then dies
+else killed
+
+if run - runs right (4)
+
+
+
+
+room right (4)
+mysterious room
+hear sounds
+lots of artifacts
+explore or take left/right
+
+if explore then find something which summons a demon
+run away or hide
+if hide then it finds you and kills you
+if run away then ends up in question room (1)
+
+take left - goes to room (5)
+take right - go to room (6)
+
+
+
+
+
+
+dead method
+puts you have died!
+
+
+win method
+the enemy is defeated
+puts “You have managed to escape”
+well done
+

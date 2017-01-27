@@ -14,7 +14,7 @@ puts persian_cat
 puts backslash_cat
 puts fat_cat
 
-puts "Just \'testing\' out a new line"
+puts "Just \"testing\" out a new line"
 puts "Just testing \\out\\ a \"new\" line"
 
 new_list = '''

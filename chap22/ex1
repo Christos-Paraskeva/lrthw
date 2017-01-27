@@ -1,0 +1,42 @@
+puts - prints output to screen, stays on same line
+print - prints output, goes onto next line
+# - for comments
++ plus = addition
+- minus = subtraction
+/ slash = division
+* asterisk = multiplication
+% percent = remainder
+< less-than = if less than
+> greater-than = if greater than
+<= less-than-equal = if less than or equal to
+>= greater-than-equal = if greater than or equal to
+#{} - interpolation brackets
+= assignment operators - assigns to a variable
+‘ ‘ quotation marks - will print out the string as is
+“ “ quotation marks - will print out the string and use interpolation if necessary
+true - bootlean evaluating to true
+false - bootlean evaluating to false
+% { }
+%q{} - adds a new line \n for every new line
+\n - new line within string
+\t - tab space within string
+“”” - multi line string quotation marks - will use interpolation
+‘’’ - multi line string quotation marks - will print as is
+ \ - can use this and then something after to display in a string.  This disappears.  
+For ex. using “ “ quotations for a string and then using \” within a string.
+gets.chomp - gets user input
+to_i - converts to integer
+to_f - converts to float
+== - equal to
+ARGV - argument vector - variable that contains arguments passed through the command line
+.capitalize - capitalizes first word
+nil - nothing
+$stdin - global standard input
+open - opens the file (which is given as an argument)
+.read - opens file and returns length byters
+.first - referring to the first argument of the ARGV array
+.close - closes and flushes any pending writes
+.write - opens file, writes string then writes length of written
+.length - returns length
+*args - acts as an array or arguments
+.seek - seeks to any given offset (integer)
