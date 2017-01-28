@@ -22,7 +22,7 @@ right(4)
 
 
 
-room left (3)
+room (3)
 monsters
 hide or run
 
@@ -41,7 +41,7 @@ if run - runs right (4)
 
 
 
-room right (4)
+room (4)
 mysterious room
 hear sounds
 lots of artifacts
