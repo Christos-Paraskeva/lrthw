@@ -1,5 +1,5 @@
 # first question room
-# have to answer 3 questions correct to proceed, otherwise game over
+# have to answer 3 questions correct to proceed, otherwise game over(method)
 def question_room
   puts "You've entered a very strange rooms"
   puts "It has question marks all over the walls"
